@@ -37,7 +37,7 @@ Add your dashboard screenshot to the repository using the filename `social-media
 
 ## 📂 Project Files
 - `SOCIAL MEDIA IMPACT.twb` – Tableau workbook
-- `tabeau.png` – Dashboard screenshot
+- `tableau.png` – Dashboard screenshot
 - `README.md` – Project documentation
 
 ## 💡 Skills Demonstrated
