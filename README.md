@@ -21,7 +21,7 @@ This project explores social media usage patterns and their impact on users usin
 - **Total Users:** 1,705
 - **Average Daily Usage:** 5.10 hours
 - **Average Sleep Duration:** 6.60 hours
-- **Average Mental Health Score:** Displayed in the dashboard
+- **Average Mental Health Score:** 6.215
 
 ## 🔍 Key Insights
 - Instagram has the highest user count among the platforms displayed.
@@ -32,7 +32,7 @@ This project explores social media usage patterns and their impact on users usin
 
 ## 🖼️ Dashboard Preview
 
-![Social Media Impact Dashboard](tableau.png)
+
 
 ## 📂 Project Files
 - `SOCIAL MEDIA IMPACT.twb` – Tableau workbook
