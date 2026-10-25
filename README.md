@@ -34,7 +34,7 @@ This project explores social media usage patterns and their impact on students u
 
 ## 📂 Project Files
 - `SOCIAL MEDIA IMPACT.twb` – Tableau workbook
-- `tableau .png` – Dashboard screenshot
+- `tableau.png` – Dashboard screenshot
 - `README.md` – Project documentation
 
 ## 💡 Skills Demonstrated
