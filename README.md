@@ -31,9 +31,8 @@ This project explores social media usage patterns and their impact on users usin
 - Interactive filters allow users to explore patterns across platforms, genders, and other categories.
 
 ## 🖼️ Dashboard Preview
-Add your dashboard screenshot to the repository using the filename `social-media-dashboard.png`.
 
-![Social Media Impact Dashboard](tableau.png)
+(tableau.png)
 
 ## 📂 Project Files
 - `SOCIAL MEDIA IMPACT.twb` – Tableau workbook
