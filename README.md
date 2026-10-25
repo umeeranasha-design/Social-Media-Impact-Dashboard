@@ -30,7 +30,6 @@ This project explores social media usage patterns and their impact on students u
 - Interactive filters allow users to explore patterns across platforms, genders, and other categories.
 
 ## 🖼️ Dashboard Preview
-
 ![Dashboard Preview](tableau.png)
 
 ## 📂 Project Files
