@@ -32,7 +32,9 @@ This project explores social media usage patterns and their impact on users usin
 
 ## 🖼️ Dashboard Preview
 
-(tableau.png)
+## 🖼️ Dashboard Preview
+
+![Social Media Impact Dashboard](tableau.png)
 
 ## 📂 Project Files
 - `SOCIAL MEDIA IMPACT.twb` – Tableau workbook
