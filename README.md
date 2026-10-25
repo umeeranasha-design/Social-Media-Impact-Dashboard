@@ -31,11 +31,11 @@ This project explores social media usage patterns and their impact on students u
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](https://github.com/umeeranasha-design/Social-Media-Impact-Dashboard/blob/main/tableau%20.png)
+![Dashboard Preview](tableau .png)
 
 ## 📂 Project Files
 - `SOCIAL MEDIA IMPACT.twb` – Tableau workbook
-- `tableau.png` – Dashboard screenshot
+- `tableau .png` – Dashboard screenshot
 - `README.md` – Project documentation
 
 ## 💡 Skills Demonstrated
