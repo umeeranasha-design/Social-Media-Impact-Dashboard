@@ -1,16 +1,15 @@
-# Social-Media-Impact-Dashboard
 # 📊 Social Media Impact Dashboard | Tableau Public
 
 ## 📌 Project Overview
-This project explores social media usage patterns and their impact on users using an interactive dashboard built with Tableau Public. It presents insights into platform popularity, daily usage hours, sleep duration, demographics, and social media impact categories.
+This project explores social media usage patterns and their impact on students using an interactive dashboard built with Tableau Public. It presents insights into platform popularity, daily usage hours, sleep duration, demographics, and social media impact categories.
 
 ## 🎯 Project Objectives
 - Analyze popular social media platforms.
 - Compare average daily usage hours across countries.
 - Explore usage patterns across different age groups.
-- Understand the distribution of users by gender.
-- Analyze positive, neutral, and negative social media impacts.
-- Examine the relationship between social media usage and sleep duration.
+- Understand the distribution of students by gender.
+- Review the distribution of reported overall social media impact.
+- Summarize average sleep duration and mental health score.
 
 ## 🛠️ Tech Stack
 - **Tableau Public** – Interactive dashboard and data visualization
@@ -18,21 +17,21 @@ This project explores social media usage patterns and their impact on users usin
 - **Data Visualization** – KPI cards, charts, and interactive filters
 
 ## 📈 Key Performance Indicators (KPIs)
-- **Total Users:** 1,705
+- **Total Students:** 1,705
 - **Average Daily Usage:** 5.10 hours
 - **Average Sleep Duration:** 6.60 hours
-- **Average Mental Health Score:** 6.215
+- **Average Mental Health Score:** 6.22
 
 ## 🔍 Key Insights
-- Instagram has the highest user count among the platforms displayed.
-- Users spend an average of approximately 5.1 hours per day on social media.
+- Instagram has the highest student count among the platforms displayed.
+- Students spend an average of approximately 5.1 hours per day on social media.
 - Average sleep duration is approximately 6.6 hours.
 - The dashboard compares social media usage and impact across different demographic groups.
 - Interactive filters allow users to explore patterns across platforms, genders, and other categories.
 
 ## 🖼️ Dashboard Preview
 
-
+![Dashboard Preview](tableau.png)
 
 ## 📂 Project Files
 - `SOCIAL MEDIA IMPACT.twb` – Tableau workbook
@@ -47,7 +46,5 @@ This project explores social media usage patterns and their impact on users usin
 - Exploratory Data Analysis
 - Analytical Storytelling
 
-## 👩‍💻 Author
-**Data Analytics Portfolio Project**
-
-
+## 👤 Author
+UMEERA NASHA
